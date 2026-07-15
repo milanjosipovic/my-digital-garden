@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "milanjosipovic.github.io/my-digital-garden"
+  baseUrl: "milanjosipovic.github.io/quartz"
   ignorePatterns:
     - private
     - templates
